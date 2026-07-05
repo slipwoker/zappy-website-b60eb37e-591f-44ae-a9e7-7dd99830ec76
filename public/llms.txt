@@ -7,73 +7,73 @@
 ## Pages
 
 ### בית
-https://football-city-b60eb37e.zappy5.app
+https://example.com
 חנות החולצות הרשמית של נבחרות לאומיות מכל קצוות תבל, כולל מונדיאל 2026 ומועדונים כמו פ.ס.ז׳. אספנות, תרבות וסטייל במשלוח מהיר. הצטרף עכשיו למגרש הבינלאומי!
 
 ### קופסאות מסתוריות
-https://football-city-b60eb37e.zappy5.app/mystery-boxes
+https://example.com/mystery-boxes
 קופסאות מסתוריות עם חולצות כדורגל מקוריות בהפתעה מוחלטת — מריאל מדריד ועד קומו. חוויית א�בוקסינג אדירה לחובבי הספורט האמיתיים. העז לגלות מה בפנים!
 
 ### תרבות כדורגל עולמית
-https://football-city-b60eb37e.zappy5.app/global-football-culture
+https://example.com/global-football-culture
 צלילה עמוקה לעולם תרבות הכדורגל הגלובלית — מסיפורי נבחרות, דרך טרנדים ועד מונדיאל 2026. קבלו השראה, ידע וזווית אחרת על המשחק היפה. היכנסו למגרש התרבותי!
 
 ### שאלות נפוצות
-https://football-city-b60eb37e.zappy5.app/faq
+https://example.com/faq
 שאלות נפוצות על משלוחים, מידות, קופסאות מסתוריות והזמנות — הכול במקום אחד. אנחנו פה כדי שתקבלו את חולצת החלומות שלכם בלי כאב ראש. כנסו ותקבלו תשובות מהירות!
 
 ### צור קשר
-https://football-city-b60eb37e.zappy5.app/contact
+https://example.com/contact
 צריכים עזרה? רוצים חולצה מיוחדת כמו של פ.ס.ז׳ או רעיון לקופסה מסתורית? צרו קשר עם צוות Football city — אנחנו זמינים, מהירים ומתים על כדורגל בדיוק כמוכם. שלחו הודעה עכשיו!
 
 ### Products
-https://football-city-b60eb37e.zappy5.app/products
+https://example.com/products
 המוצרים שלנו - Football city
 
 ### Cart
-https://football-city-b60eb37e.zappy5.app/cart
+https://example.com/cart
 עגלת הקניות שלך
 
 ### Checkout
-https://football-city-b60eb37e.zappy5.app/checkout
+https://example.com/checkout
 תשלום
 
 ### Login
-https://football-city-b60eb37e.zappy5.app/login
+https://example.com/login
 התחברות לקוחות
 
 ### Account
-https://football-city-b60eb37e.zappy5.app/account
+https://example.com/account
 החשבון שלי
 
 ### Order Success
-https://football-city-b60eb37e.zappy5.app/order-success
+https://example.com/order-success
 תודה על ההזמנה
 
 ### Product Detail
-https://football-city-b60eb37e.zappy5.app/product/:slug
+https://example.com/product/:slug
 פרטי המוצר - Football city
 
 ### Category
-https://football-city-b60eb37e.zappy5.app/category/:slug
+https://example.com/category/:slug
 מוצרים - Football city
 
 ### תודה - Football city
-https://football-city-b60eb37e.zappy5.app/thank-you
+https://example.com/thank-you
 Football city - תודה - Football city
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://football-city-b60eb37e.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://football-city-b60eb37e.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://football-city-b60eb37e.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -102,8 +102,8 @@ E-commerce / Sports Merchandise
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://football-city-b60eb37e.zappy5.app/sitemap.xml
-- Robots: https://football-city-b60eb37e.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://football-city-b60eb37e.zappy5.app/llms-full.txt
-- Products (JSON): https://football-city-b60eb37e.zappy5.app/products.json
-- Products (Google Merchant RSS): https://football-city-b60eb37e.zappy5.app/product-feed.xml
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
