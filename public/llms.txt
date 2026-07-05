@@ -1,0 +1,109 @@
+# Football city — Generative Engine Optimization Map
+
+> An online store specializing in football jerseys from national teams around the world — both World Cup (FIFA) teams and non-qualifying nations. The store also offers mystery boxes, where customers receive surprise football jerseys. The brand targets football fans globally and taps into the excitement and passion of international football culture, collectibles, and the thrill of surprise unboxing experiences.
+
+---
+
+## Pages
+
+### בית
+https://football-city-b60eb37e.zappy5.app
+חנות החולצות הרשמית של נבחרות לאומיות מכל קצוות תבל, כולל מונדיאל 2026 ומועדונים כמו פ.ס.ז׳. אספנות, תרבות וסטייל במשלוח מהיר. הצטרף עכשיו למגרש הבינלאומי!
+
+### קופסאות מסתוריות
+https://football-city-b60eb37e.zappy5.app/mystery-boxes
+קופסאות מסתוריות עם חולצות כדורגל מקוריות בהפתעה מוחלטת — מריאל מדריד ועד קומו. חוויית א�בוקסינג אדירה לחובבי הספורט האמיתיים. העז לגלות מה בפנים!
+
+### תרבות כדורגל עולמית
+https://football-city-b60eb37e.zappy5.app/global-football-culture
+צלילה עמוקה לעולם תרבות הכדורגל הגלובלית — מסיפורי נבחרות, דרך טרנדים ועד מונדיאל 2026. קבלו השראה, ידע וזווית אחרת על המשחק היפה. היכנסו למגרש התרבותי!
+
+### שאלות נפוצות
+https://football-city-b60eb37e.zappy5.app/faq
+שאלות נפוצות על משלוחים, מידות, קופסאות מסתוריות והזמנות — הכול במקום אחד. אנחנו פה כדי שתקבלו את חולצת החלומות שלכם בלי כאב ראש. כנסו ותקבלו תשובות מהירות!
+
+### צור קשר
+https://football-city-b60eb37e.zappy5.app/contact
+צריכים עזרה? רוצים חולצה מיוחדת כמו של פ.ס.ז׳ או רעיון לקופסה מסתורית? צרו קשר עם צוות Football city — אנחנו זמינים, מהירים ומתים על כדורגל בדיוק כמוכם. שלחו הודעה עכשיו!
+
+### Products
+https://football-city-b60eb37e.zappy5.app/products
+המוצרים שלנו - Football city
+
+### Cart
+https://football-city-b60eb37e.zappy5.app/cart
+עגלת הקניות שלך
+
+### Checkout
+https://football-city-b60eb37e.zappy5.app/checkout
+תשלום
+
+### Login
+https://football-city-b60eb37e.zappy5.app/login
+התחברות לקוחות
+
+### Account
+https://football-city-b60eb37e.zappy5.app/account
+החשבון שלי
+
+### Order Success
+https://football-city-b60eb37e.zappy5.app/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://football-city-b60eb37e.zappy5.app/product/:slug
+פרטי המוצר - Football city
+
+### Category
+https://football-city-b60eb37e.zappy5.app/category/:slug
+מוצרים - Football city
+
+### תודה - Football city
+https://football-city-b60eb37e.zappy5.app/thank-you
+Football city - תודה - Football city
+
+## Legal & Policy
+
+### Privacy Policy
+https://football-city-b60eb37e.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://football-city-b60eb37e.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://football-city-b60eb37e.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Football city
+An online store specializing in football jerseys from national teams around the world — both World Cup (FIFA) teams and non-qualifying nations. The store also offers mystery boxes, where customers receive surprise football jerseys. The brand targets football fans globally and taps into the excitement and passion of international football culture, collectibles, and the thrill of surprise unboxing experiences.
+
+## Target Audience
+- אוהדי כדורגל מכל העולם, אוהדי נבחרות מונדיאל
+- אוהדי נבחרות מונדיאל
+- אוהדי קבוצות כדורגל
+- חובבי מיסטרי בוקס
+
+## Industry
+E-commerce / Sports Merchandise
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://football-city-b60eb37e.zappy5.app/sitemap.xml
+- Robots: https://football-city-b60eb37e.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://football-city-b60eb37e.zappy5.app/llms-full.txt
+- Products (JSON): https://football-city-b60eb37e.zappy5.app/products.json
+- Products (Google Merchant RSS): https://football-city-b60eb37e.zappy5.app/product-feed.xml
